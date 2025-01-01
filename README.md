@@ -28,7 +28,7 @@ cd <repository-folder>
 ```
 - Run the script:
 ```bash
-python dijkstra_visualization.py
+python dijkstra_ChandhanSaai_Katuri.py
 ```
 - Follow the on-screen prompts to enter the start and end points in the format x, y (e.g., 50, 50).
 - The program will compute the shortest path, visualize the process, and save the video output as dijkstra_ChandhanSaai_Katuri.mp4.
