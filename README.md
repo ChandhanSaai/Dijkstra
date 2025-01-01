@@ -45,3 +45,7 @@ End Point: 1150, 50
 - Output:
 Visualization showing the shortest path and search process.
 Video saved as dijkstra_ChandhanSaai_Katuri.mp4.
+## Demo
+
+![Pathfinding Demo](dijkstra_chandhan)
+
