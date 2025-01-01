@@ -24,7 +24,6 @@ pip install numpy opencv-python
 - Clone this repository:
 ```bash
 git clone (https://github.com/ChandhanSaai/Dijkstra/tree/main)
-cd 
 ```
 - Run the script:
 ```bash
