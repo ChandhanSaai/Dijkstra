@@ -47,5 +47,5 @@ Visualization showing the shortest path and search process.
 Video saved as dijkstra_ChandhanSaai_Katuri.mp4.
 ## Demo
 
-![Pathfinding Demo](dijkstra_chandhan)
+![Pathfinding Demo](dijkstra_chandhan.gif)
 
